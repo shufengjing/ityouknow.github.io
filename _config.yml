@@ -18,7 +18,7 @@ favicon: favicon.ico
 repository: shufengjing/jingshufeng2
 github_url: https://github.com/shufengjing
 url: https://shufengjing.github.io/jingshufeng2
-#enforce_ssl: ityouknow.com
+enforce_ssl: ityouknow.com
 
 ## Gem
 plugins:
